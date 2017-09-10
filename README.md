@@ -1,6 +1,6 @@
 # bibtex2arxivSanity
 
-Take advantage of Arxiv Sanity's awesome paper recommendations.
+Take advantage of Arxiv Sanity's awesome recommendations by saving your favorite papers stored in BibTex to your Arxiv Sanity account.
 
 - Loads a BibTex file and extracts paper titles
 - Logs in to your Arxiv Sanity account
@@ -33,3 +33,7 @@ positional arguments:
 optional arguments:
   -h, --help   show this help message and exit
 ```
+
+## Papers app
+
+If you use the Papers app, you can export your collection to BibTex by going to Share -> Export -> BibTex Library.
